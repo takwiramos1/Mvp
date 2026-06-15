@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TuckBook</string>
+    <string name="total_outstanding">Total Outstanding</string>
+    <string name="customers">Customers</string>
+    <string name="add_customer">Add Customer</string>
+    <string name="give_credit">Give Credit</string>
+    <string name="record_payment">Got Payment</string>
+    <string name="send_whatsapp">WhatsApp Reminder</string>
+    <string name="no_customers">No customers yet.\nTap + to add your first customer.</string>
+    <string name="owes_you">owes you</string>
+    <string name="settled">settled</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone Number</string>
+    <string name="amount">Amount ($)</string>
+    <string name="description">What for?</string>
+    <string name="delete">Delete</string>
+    <string name="today_credit">Today Credit</string>
+    <string name="today_payments">Today Payments</string>
+</resources>
